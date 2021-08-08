@@ -1,5 +1,5 @@
 # Piano Sequencer
-> Program that takes a text sequence and outputs the corresponding piano sequence.
+> Program that takes a text sequence and outputs the corresponding piano sequence. (Last Update: 2021.05.28)
 
 
 
