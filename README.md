@@ -1,13 +1,13 @@
-# Piano Sequencer
+# Piano-Sequencer
 > Program that takes a text sequence and outputs the corresponding piano sequence.
 
 
 
 
-> Last Update: 2021.05.28
+
 ## Introduction
 
-> 본 directory 학습내용의 출처는 [FutureSkill](https://futureskill.io/)의 [Contents](https://futureskill.io/content/e03834be-85b0-45a8-8cf6-f9d997c3e429)입니다.
+> The source of this repository is [FutureSkill](https://futureskill.io/)의 [Contents](https://futureskill.io/content/e03834be-85b0-45a8-8cf6-f9d997c3e429)입니다.
 
 
 
